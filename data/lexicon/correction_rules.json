@@ -1,0 +1,1795 @@
+{
+  "ka": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "PRON"
+  },
+  "kan": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "PRON"
+  },
+  "an": {
+    "wrong_tags": [
+      "VERB",
+      "NOUN"
+    ],
+    "correct_tag": "PRON"
+  },
+  "min": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "PRON"
+  },
+  "mahni": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "PRON"
+  },
+  "i": {
+    "wrong_tags": [
+      "PART",
+      "NOUN"
+    ],
+    "correct_tag": "PRON"
+  },
+  "in": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "PRON"
+  },
+  "chuan": {
+    "wrong_tags": [
+      "VERB",
+      "NOUN"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "leh": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "pawh": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "pawhin": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "hian": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "niin": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "mahse": {
+    "wrong_tags": [
+      "ADV"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "chu": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "PART"
+  },
+  "ve": {
+    "wrong_tags": [
+      "NOUN",
+      "X"
+    ],
+    "correct_tag": "PART"
+  },
+  "ta": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADV"
+  },
+  "ang": {
+    "wrong_tags": [
+      "VERB",
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "nge": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADV"
+  },
+  "em": {
+    "wrong_tags": [
+      "VERB",
+      "NOUN"
+    ],
+    "correct_tag": "ADV"
+  },
+  "vek": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "ADV"
+  },
+  "tawh": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADV"
+  },
+  "ngam": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADV"
+  },
+  "zawng": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADV"
+  },
+  "á¹­hin": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADV"
+  },
+  "tawhin": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADV"
+  },
+  "ngar": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADV"
+  },
+  "zelah": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "ni": {
+    "wrong_tags": [
+      "VERB",
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "tur": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADV"
+  },
+  "zawi": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADV"
+  },
+  "nawn": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADV"
+  },
+  "dan": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADV"
+  },
+  "ngawih": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADV"
+  },
+  "mai": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADV"
+  },
+  "hlim": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADV"
+  },
+  "lawm": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADV"
+  },
+  "dawn": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADV"
+  },
+  "ruahmansa": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "mah": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADV"
+  },
+  "tÃ»nlai": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADV"
+  },
+  "theih": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADV"
+  },
+  "zel": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADV"
+  },
+  "rei": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADV"
+  },
+  "takte": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADV"
+  },
+  "han": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADV"
+  },
+  "kawthalo": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADV"
+  },
+  "te": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "ten": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "lo": {
+    "wrong_tags": [
+      "ADP",
+      "NOUN",
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "eng": {
+    "wrong_tags": [
+      "VERB",
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "thei": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "hetah": {
+    "wrong_tags": [
+      "PRON"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "zing": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "tin": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "chak": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "hun": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "kua": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "dar": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "chawhnu": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "thum": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "tun": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "á¹­ha": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "á¹­hat": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "heng": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "hrang": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "bawk": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "taka": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "fel": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "tam": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "tak": {
+    "wrong_tags": [
+      "NOUN",
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "ber": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "ngai": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "lÃ¢r": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "vang": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "hma": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "lam": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "nuam": {
+    "wrong_tags": [
+      "VERB"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "tih": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "duh": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "bei": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "awm": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "tum": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "kam": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "kal": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "paih": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "ei": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "haw": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "phal": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "tifai": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "VERB"
+  },
+  "zin": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "pui": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "riang": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "chhiar": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "thlen": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "chhuah": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "phun": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "chhang": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "zak": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "dil": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "pÃªn": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "tlÃ¢nsan": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "VERB"
+  },
+  "chang": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "VERB"
+  },
+  "neiin": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "VERB"
+  },
+  "chhawr": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "hmelá¹­hatpui": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "zai": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "hman": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "thi": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "lang": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "pek": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "sawiho": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "VERB"
+  },
+  "pan": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "ngen": {
+    "wrong_tags": [
+      "NOUN"
+    ],
+    "correct_tag": "VERB"
+  },
+  "tihhlawhtlin": {
+    "wrong_tags": [
+      "ADV"
+    ],
+    "correct_tag": "VERB"
+  },
+  "dahlÃªt": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "thawnthu": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "krista": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "kohhran": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "chemtatrawta": {
+    "wrong_tags": [
+      "ADP"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "thawhpui": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "lehkhabu": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "vun": {
+    "wrong_tags": [
+      "AUX",
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "pathian": {
+    "wrong_tags": [
+      "PUNCT"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "lalpa": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "ngaihsamna": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "isua": {
+    "wrong_tags": [
+      "NOUN",
+      "X"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "davida": {
+    "wrong_tags": [
+      "NOUN",
+      "X"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "mary": {
+    "wrong_tags": [
+      "NOUN",
+      "X"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "samuelan": {
+    "wrong_tags": [
+      "DET",
+      "X"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "thlenga": {
+    "wrong_tags": [
+      "ADJ"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "tom": {
+    "wrong_tags": [
+      "VERB",
+      "X"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "nu": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "erawh": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "ṭhiante": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "aia": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "thinlung": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "nân": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "anga": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "nia": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PART"
+  },
+  "zet": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "tal": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "ruihhlo": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "mei": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "bo": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "amc": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "bu": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "ṭih": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "pawha": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "â": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "anih": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "chauha": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "'ka": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PRON"
+  },
+  "ina": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PART"
+  },
+  "hemi": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "isuan": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "chanvo": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "thlasik": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "ati": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "awmze": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "zeuh": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "tâk": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "sorkar": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "vêl": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "hret": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "hotute": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "tik": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "lohzia": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "nên": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "samuela": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "kalta": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "târ": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "berte": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "vanram": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "mup": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "no": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "lantir": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "hmuha": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "bera": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "bi": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "thlap": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "keia": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PRON"
+  },
+  "pelh": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "zaa": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "mize": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "deuha": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "alo": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "saula": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "dial": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "tlema": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "thumal": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "kea": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "ṭha": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "thute": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "engemaw": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "tom-an": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "bible": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "hmuhsit": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "loh": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "a": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PART"
+  },
+  "chî": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "thawka": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "lohva": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "rawh": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADP"
+  },
+  "kutke": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "kuthnathawktute": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "upate": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "êm": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "loa": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "nun": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "u": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PRON"
+  },
+  "'kei": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PRON"
+  },
+  "thianho": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "dàn": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "phd": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "london": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "'a": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PART"
+  },
+  "dila": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "minit": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "emawa": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "CCONJ"
+  },
+  "tute": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PRON"
+  },
+  "chhûngmu": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "savate": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "űr": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "ṭhutkhawm": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "intirh": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "nei": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "lalpa'n": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "mita": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "hani": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "ema": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "ṭhensak": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "tansak": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "vânduai": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "âwl": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "chuta": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "ropuia": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "meizûk": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "ên": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "pulis": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "siami": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "sâp": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "vin": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "pêm": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "thawha": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "tehchiam": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "tuifawnten": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "york": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "nulat": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "vui": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "dauh": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "kathy": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "ṭhianho": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "tama": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "a'n": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PRON"
+  },
+  "pe": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "hlat": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "fc": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "'thlarau": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "meh": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "niha": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "ka'n": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PRON"
+  },
+  "la": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "senno": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "chini": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "danny": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "hlap": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "abci": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "ṭhîn": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "pianpun": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "tarmit": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "elpui": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "beha": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "boston": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "linda": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "PROPN"
+  },
+  "thlitfim": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "hnu-a": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "tv": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "thlarau": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "pawnto": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "india": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "dik": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "hlân": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "nabin-a": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "ṭuma": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "maia": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "inte": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "dante": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "inlehtîr": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "tîr": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "VERB"
+  },
+  "french": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "takin": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  },
+  "gps": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "'isua": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "NOUN"
+  },
+  "ęm": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADJ"
+  },
+  "kauh": {
+    "wrong_tags": [
+      "X"
+    ],
+    "correct_tag": "ADV"
+  }
+}

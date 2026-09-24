@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Not redistributed
+data/parallel/
+data/corpus/train.conll
+data/corpus/core_reviewed.conll
+data/corpus/tier*.conll
+data/external/iiit/*.conllu
+data/gold_eval/
+artifacts/
+experiments/
+results/mt/
+paper/
+
+# OS
+.DS_Store
+Thumbs.db

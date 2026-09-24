@@ -1,0 +1,19 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Thangkhanhau Haulai, Jamal Hussain,
+MS Dawngliani, Verónica Vargas-Alejo
+
+The following are licensed under CC BY 4.0:
+  data/lexicon/        (lexicon, word and phrase lists, correction rules)
+  data/corpus/sample/  (sample annotated sentences)
+  models/pos_tagger/   (trained tagger weights and vocabularies)
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The source code in src/ and notebooks/ is licensed separately
+under the MIT License (see LICENSE).
+
+The full parallel and silver-standard corpora are not redistributed.
+The underlying texts remain under the copyright of their original
+publishers. Corpus statistics are reported in the paper and in
+data/stats/.

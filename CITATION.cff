@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Mizo Part-of-Speech Corpus and Tagger
+message: If you use this resource, please cite it as below.
+type: dataset
+authors:
+  - family-names: Haulai
+    given-names: Thangkhanhau
+    email: tka@gsc.edu.in
+  - family-names: Hussain
+    given-names: Jamal
+  - family-names: Dawngliani
+    given-names: M. S.
+  - family-names: Vargas-Alejo
+    given-names: Veronica
+repository-code: https://github.com/thangkhanhau/mizo_pos
+license: CC-BY-4.0
