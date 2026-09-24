@@ -56,6 +56,7 @@ Without it, notebook 04 skips the external evaluation.
 
 ```bash
 pip install -r requirements.txt
+python -m spacy download en_core_web_sm   # needed only for notebook 01
 cd notebooks
 jupyter notebook 04_evaluation.ipynb
 ```

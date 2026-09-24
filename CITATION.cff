@@ -1,16 +1,27 @@
 cff-version: 1.2.0
-title: Mizo Part-of-Speech Corpus and Tagger
+title: "mizo_pos: Silver-Standard Part-of-Speech Corpus and Neural Tagger for Mizo"
 message: If you use this resource, please cite it as below.
-type: dataset
+type: software
 authors:
   - family-names: Haulai
     given-names: Thangkhanhau
     email: tka@gsc.edu.in
+    orcid: "https://orcid.org/0000-0001-7154-5364"
   - family-names: Hussain
     given-names: Jamal
   - family-names: Dawngliani
     given-names: M. S.
   - family-names: Vargas-Alejo
-    given-names: Veronica
+    given-names: Verónica
 repository-code: https://github.com/thangkhanhau/mizo_pos
-license: CC-BY-4.0
+license:
+  - MIT
+  - CC-BY-4.0
+version: 1.0.0
+date-released: 2026-09-24
+keywords:
+  - Mizo
+  - part-of-speech tagging
+  - low-resource languages
+  - annotation projection
+  - Universal Dependencies

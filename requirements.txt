@@ -6,3 +6,4 @@ simalign
 transformers
 spacy
 tqdm
+notebook
